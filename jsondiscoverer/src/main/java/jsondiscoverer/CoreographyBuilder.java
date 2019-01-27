@@ -34,7 +34,7 @@ import jsondiscoverer.util.DijkstraSolver;
  * <li>Retrieve the shortest path for a given source/target nodes</li>
  * <li>Generate the {@link String} representing the sequence diagram</li>
  * </ol>
- * <p>pñ'-
+ * <p>
  * 
  * The sequence diagram is represented as a {@link String} to be transformed into a picture
  * by means of the tool <a href="http://bramp.github.io/js-sequence-diagrams">js-sequene-diagrams</a>
